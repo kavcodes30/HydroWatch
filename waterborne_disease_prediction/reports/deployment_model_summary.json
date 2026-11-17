@@ -1,0 +1,46 @@
+{
+  "purpose": "deployment variant with calibrated probabilities and reduced overfitting",
+  "disclosure": "post-hoc comparison on the holdout; the selected model remains the one chosen by development-set CV. Reported for transparency, not as a re-selection.",
+  "regularised_params": {
+    "max_depth": 12,
+    "min_samples_leaf": 5,
+    "max_features": 0.5,
+    "n_estimators": 300
+  },
+  "shipped": "regularised_uncalibrated (max_depth=12, min_samples_leaf=5)",
+  "calibration_tested_and_rejected": {
+    "method": "isotonic via CalibratedClassifierCV(cv=3) on development period",
+    "brier_high_before": 0.0485,
+    "brier_high_after": 0.0389,
+    "high_recall_before": 0.8545,
+    "high_recall_after": 0.4727,
+    "reason": "calibration lowered the Brier score but halved High-Risk recall; false negatives are the costlier error for early warning"
+  },
+  "results": {
+    "regularised_uncalibrated": {
+      "accuracy": 0.7627,
+      "macro_f1": 0.6381,
+      "high_recall": 0.8545,
+      "brier": {
+        "Low": 0.1454,
+        "Moderate": 0.1373,
+        "High": 0.0485
+      },
+      "train_accuracy": 0.895,
+      "overfitting_gap": 0.1323
+    },
+    "regularised_isotonic": {
+      "accuracy": 0.7809,
+      "macro_f1": 0.5547,
+      "high_recall": 0.4727,
+      "brier": {
+        "Low": 0.1215,
+        "Moderate": 0.1283,
+        "High": 0.0389
+      },
+      "train_accuracy": 0.878,
+      "overfitting_gap": 0.0971
+    }
+  },
+  "artefact": "models/deployment_model.pkl"
+}

@@ -1,0 +1,36 @@
+{
+  "rows_scored": 2031,
+  "alerts": 191,
+  "watch": 231,
+  "alert_rate": 0.4526,
+  "config": {
+    "high_probability_threshold": 0.5,
+    "moderate_probability_threshold": 0.4,
+    "require_parameter_exceedance_for_alert": false
+  },
+  "parameter_limits": {
+    "ph": {
+      "low": 6.5,
+      "high": 8.5,
+      "unit": "pH units",
+      "source": "BIS IS 10500 acceptable limit"
+    },
+    "electrical_conductivity": {
+      "high": 1500.0,
+      "unit": "uS/cm",
+      "source": "indicative salinity/ionic load limit"
+    },
+    "ammonia_n": {
+      "high": 0.5,
+      "unit": "mgN/L",
+      "source": "BIS IS 10500 acceptable limit"
+    },
+    "dissolved_oxygen": {
+      "low": 5.0,
+      "unit": "mg/L",
+      "source": "CPCB Class B surface-water criterion"
+    }
+  },
+  "synthetic_symptom_rows": 1536,
+  "disclaimer": "This is a decision-support indicator of potential water-quality stress consistent with contamination risk. It is not a diagnosis, not a confirmed outbreak, and not laboratory confirmation of bacterial or viral contamination. Verify with repeat sampling and public-health review."
+}

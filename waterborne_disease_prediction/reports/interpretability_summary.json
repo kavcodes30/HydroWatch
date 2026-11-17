@@ -1,0 +1,68 @@
+{
+  "top_impurity_features": {
+    "longitude": 0.2411,
+    "latitude": 0.206,
+    "ph": 0.0714,
+    "state_Madhya Pradesh": 0.0565,
+    "lag1_ph": 0.0564,
+    "state_Maharashtra": 0.0424,
+    "t2m_c": 0.0394,
+    "delta_ph": 0.0385,
+    "rainfall_3m_mm": 0.0328,
+    "rainfall_anomaly_mm": 0.0303
+  },
+  "top_permutation_features": [
+    {
+      "feature": "longitude",
+      "importance_mean": 0.1784
+    },
+    {
+      "feature": "latitude",
+      "importance_mean": 0.1271
+    },
+    {
+      "feature": "state",
+      "importance_mean": 0.1155
+    },
+    {
+      "feature": "ph",
+      "importance_mean": 0.0075
+    },
+    {
+      "feature": "n_samples_physical",
+      "importance_mean": 0.0071
+    },
+    {
+      "feature": "lag1_ph",
+      "importance_mean": 0.0071
+    },
+    {
+      "feature": "n_samples_chemical",
+      "importance_mean": 0.0065
+    },
+    {
+      "feature": "electrical_conductivity",
+      "importance_mean": 0.0058
+    },
+    {
+      "feature": "rainfall_anomaly_mm",
+      "importance_mean": 0.0027
+    },
+    {
+      "feature": "t2m_c",
+      "importance_mean": 0.0017
+    }
+  ],
+  "top_shap_features_high_risk": {
+    "longitude": 0.1139,
+    "latitude": 0.0632,
+    "state_Madhya Pradesh": 0.0462,
+    "ph": 0.02,
+    "state_Maharashtra": 0.0196,
+    "lag1_ph": 0.0173,
+    "months_since_first": 0.0148,
+    "n_samples_physical": 0.0141,
+    "state_Punjab": 0.0128,
+    "has_ec": 0.0123
+  }
+}

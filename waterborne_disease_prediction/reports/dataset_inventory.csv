@@ -1,0 +1,15 @@
+file,type,state,rows,columns,stations,districts,start,end,exact_duplicates
+swq_chemical_parameter_manual_cpcb_gj_2021_2025.csv,chemical,Gujarat,1127,52,168,21,2021-01-01,2021-12-29,0
+swq_chemical_parameter_manual_cpcb_jk_2021_2025.csv,chemical,Jammu & Kashmir,555,52,100,9,2021-01-14,2021-12-29,0
+swq_chemical_parameter_manual_cpcb_kl_2021_2025.csv,chemical,Kerala,1189,52,133,14,2021-01-01,2021-12-28,0
+swq_chemical_parameter_manual_cpcb_mh_2021_2025.csv,chemical,Maharashtra,1942,52,225,31,2021-01-01,2021-12-28,0
+swq_chemical_parameter_manual_cpcb_mp_2021_2025.csv,chemical,Madhya Pradesh,2158,52,240,39,2021-01-01,2021-12-31,0
+swq_chemical_parameter_manual_cpcb_pb_2021_2025.csv,chemical,Punjab,715,52,98,12,2021-01-05,2021-12-23,0
+swq_chemical_parameter_manual_cpcb_wb_2021_2025.csv,chemical,West Bengal,988,52,132,19,2021-01-04,2021-12-30,0
+swq_physical_parameter_manual_cpcb_gj_2021_2025.csv,physical,Gujarat,621,25,167,21,2021-01-01,2021-12-10,0
+swq_physical_parameter_manual_cpcb_jk_2021_2025.csv,physical,Jammu & Kashmir,256,25,69,6,2021-01-14,2021-12-14,0
+swq_physical_parameter_manual_cpcb_kl_2021_2025.csv,physical,Kerala,535,25,132,14,2021-01-01,2021-12-16,0
+swq_physical_parameter_manual_cpcb_mh_2021_2025.csv,physical,Maharashtra,828,25,201,29,2021-01-01,2021-12-10,0
+swq_physical_parameter_manual_cpcb_mp_2021_2025.csv,physical,Madhya Pradesh,897,25,237,39,2021-01-01,2021-12-31,0
+swq_physical_parameter_manual_cpcb_pb_2021_2025.csv,physical,Punjab,261,25,98,12,2021-01-05,2021-12-13,0
+swq_physical_parameter_manual_cpcb_wb_2021_2025.csv,physical,West Bengal,470,25,130,19,2021-01-04,2021-12-30,0

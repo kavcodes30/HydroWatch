@@ -1,0 +1,71 @@
+{
+  "selected_model": "Random Forest",
+  "selected_cv_macro_f1": 0.7065570014441906,
+  "majority_baseline_accuracy": 0.7068599717114569,
+  "majority_baseline_macro_f1": 0.27606787559785506,
+  "features": [
+    "ph",
+    "electrical_conductivity",
+    "rainfall_monthly_mm",
+    "rainfall_3m_mm",
+    "rainfall_anomaly_mm",
+    "t2m_c",
+    "month_sin",
+    "month_cos",
+    "latitude",
+    "longitude",
+    "n_samples_chemical",
+    "n_samples_physical",
+    "months_since_first",
+    "lag1_ph",
+    "lag1_ec",
+    "delta_ph",
+    "delta_ec",
+    "rolling3_ec",
+    "has_ec",
+    "state",
+    "season",
+    "monsoon_flag"
+  ],
+  "numeric_features": [
+    "ph",
+    "electrical_conductivity",
+    "rainfall_monthly_mm",
+    "rainfall_3m_mm",
+    "rainfall_anomaly_mm",
+    "t2m_c",
+    "month_sin",
+    "month_cos",
+    "latitude",
+    "longitude",
+    "n_samples_chemical",
+    "n_samples_physical",
+    "months_since_first",
+    "lag1_ph",
+    "lag1_ec",
+    "delta_ph",
+    "delta_ec",
+    "rolling3_ec",
+    "has_ec"
+  ],
+  "categorical_features": [
+    "state",
+    "season",
+    "monsoon_flag"
+  ],
+  "class_order": [
+    "Low",
+    "Moderate",
+    "High"
+  ],
+  "random_state": 42,
+  "development_period": "2021-01 to 2021-09",
+  "holdout_period": "2021-10 to 2021-12",
+  "cv_scheme": "GroupKFold(5) grouped by station",
+  "selection_metric": "macro F1 (development CV only)",
+  "target_definition": {
+    "base": "CPCB DO criteria: >=6 Low, 4-6 Moderate, <4 High",
+    "escalation": "one level up if ammonia_n>1.0 or nitrate_n>10.2 mgN/L",
+    "note": "water-quality stress proxy, not confirmed disease risk"
+  }
+}

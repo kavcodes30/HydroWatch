@@ -1,0 +1,6 @@
+model,cv_macro_f1_mean,cv_macro_f1_std,best_params
+Random Forest,0.7065570014441906,0.023640929012338656,"{'model__min_samples_leaf': 1, 'model__max_features': 0.5, 'model__max_depth': None}"
+XGBoost,0.6958752464740787,0.015289631459395454,"{'model__max_depth': 7, 'model__learning_rate': 0.1}"
+Random Forest + SMOTE,0.6917626589981398,0.02604348094136743,{'note': 'SMOTE applied inside training folds only'}
+Decision Tree,0.6414388490310439,0.02444899269225881,"{'model__max_depth': None, 'model__min_samples_leaf': 1}"
+Logistic Regression,0.5150191921451734,0.025080383721888616,{'model__C': 10.0}

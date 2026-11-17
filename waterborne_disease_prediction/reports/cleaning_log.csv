@@ -1,0 +1,17 @@
+step,action,rows_affected,detail
+chemical:load,rows loaded,8674,
+chemical:load,placeholder '-' and '' converted to NaN,69395,CPCB uses '-' for missing; left as text it defeats numeric parsing
+chemical:load,all-empty analyte columns dropped,0,"14 columns: boron, carbonate, calcium, fluoride, bicarbonate, potassium, magnesium, sodium, nitrite_nitrate_n, sulphate, total_phosphorus, manganese, nitrate_as_no3, copper"
+chemical:load,placeholder-only geography columns dropped,0,"block, village, river, basin, tributary, subtributary, sub_sub_tributary, local_river"
+chemical:load,implausible ph set to NaN,1,"outside [3.0, 12.0]"
+chemical:load,implausible dissolved_oxygen set to NaN,1,"outside [0.0, 20.0]"
+chemical:load,implausible tds set to NaN,1,"outside [0.0, 10000.0]"
+chemical:load,implausible alkalinity set to NaN,5,"outside [0.0, 3000.0]"
+physical:load,rows loaded,3868,
+physical:load,placeholder '-' and '' converted to NaN,30944,CPCB uses '-' for missing; left as text it defeats numeric parsing
+physical:load,all-empty analyte columns dropped,0,"4 columns: colour, odour, water_temperature, total_solids"
+physical:load,placeholder-only geography columns dropped,0,"block, village, river, basin, tributary, subtributary, sub_sub_tributary, local_river"
+physical:load,implausible electrical_conductivity set to NaN,1,"outside [0.0, 60000.0]"
+dedupe,repeated chemical station-date pairs found,18,"averaged during station-month aggregation, not deleted"
+dedupe,repeated physical station-date pairs found,18,"averaged during station-month aggregation, not deleted"
+aggregate,station-month rows created,8518,"chemical grain 8518, physical grain 3819"

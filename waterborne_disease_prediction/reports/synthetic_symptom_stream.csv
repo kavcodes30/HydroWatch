@@ -1,0 +1,1537 @@
+state,district,month,symptom_reports,reporting_facilities,data_source,note
+Gujarat,Ahmedabad,1,31,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Ahmedabad,2,21,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Ahmedabad,3,32,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Ahmedabad,4,23,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Ahmedabad,5,15,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Ahmedabad,6,28,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Ahmedabad,7,40,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Ahmedabad,8,21,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Ahmedabad,9,30,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Ahmedabad,10,35,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Ahmedabad,11,34,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Ahmedabad,12,32,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,1,14,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,2,8,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,3,17,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,4,13,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,5,6,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,6,24,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,7,20,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,8,10,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,9,23,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,10,20,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,11,20,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Anand,12,19,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Banaskantha,1,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Banaskantha,2,9,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Banaskantha,3,10,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Banaskantha,4,13,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Banaskantha,8,12,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Banaskantha,9,13,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Banaskantha,10,11,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Banaskantha,11,12,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Banaskantha,12,10,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,1,11,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,2,24,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,3,21,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,4,23,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,5,19,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,6,29,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,7,20,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,8,18,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,9,21,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,10,15,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,11,17,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Bharuch,12,11,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,1,13,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,2,12,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,3,15,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,4,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,5,18,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,6,11,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,7,9,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,8,14,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,9,11,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,10,4,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,11,16,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,DAMAN,12,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,1,14,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,2,21,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,3,13,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,4,5,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,5,12,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,6,4,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,7,9,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,8,8,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,9,13,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,10,14,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,11,19,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Dohad,12,13,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Gandhinagar,1,10,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Gandhinagar,2,13,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Gandhinagar,3,16,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Gandhinagar,4,17,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Gandhinagar,5,13,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Gandhinagar,6,13,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Gandhinagar,7,23,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Gandhinagar,8,8,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Gandhinagar,9,9,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Gandhinagar,10,19,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,1,51,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,2,41,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,3,55,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,4,49,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,5,45,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,6,48,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,7,58,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,8,48,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,9,43,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,10,7,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,11,9,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Jamnagar,12,16,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,1,11,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,2,30,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,3,14,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,4,11,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,5,15,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,6,9,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,7,17,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,8,13,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,9,15,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,10,13,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,11,11,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Junagadh,12,11,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,1,12,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,2,12,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,3,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,4,8,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,5,18,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,6,7,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,7,11,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,8,9,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,9,12,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,10,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,11,11,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kachchh,12,18,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,1,9,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,2,7,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,3,12,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,4,28,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,5,22,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,6,13,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,7,20,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,8,36,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,9,36,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,10,39,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,11,22,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Kheda,12,27,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,1,14,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,2,48,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,3,26,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,4,54,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,5,43,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,6,13,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,7,59,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,8,11,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,9,16,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,10,56,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,11,15,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Mahesana,12,14,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,1,12,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,2,14,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,3,6,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,4,13,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,5,13,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,6,8,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,7,14,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,8,15,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,9,13,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,10,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,11,11,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Narmada,12,15,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,1,16,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,2,11,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,3,11,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,4,13,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,5,14,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,6,11,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,7,10,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,8,11,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,9,19,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,10,11,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,11,12,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Navsari,12,10,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,1,11,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,2,16,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,3,11,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,4,12,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,5,14,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,6,16,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,7,56,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,8,55,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,9,47,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,10,52,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,11,71,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Patan,12,10,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,1,24,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,2,29,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,3,23,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,4,25,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,5,13,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,6,29,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,7,24,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,8,19,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,9,16,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,10,17,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,11,8,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Rajkot,12,19,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,1,8,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,2,11,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,3,17,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,4,13,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,5,7,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,6,13,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,7,13,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,8,12,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,9,14,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,10,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,11,8,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Sabarkantha,12,11,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,1,17,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,2,16,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,3,15,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,4,18,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,5,19,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,6,14,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,7,7,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,8,16,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,9,15,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,10,10,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,11,16,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surat,12,15,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,1,11,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,2,14,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,3,45,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,4,47,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,5,51,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,6,48,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,7,47,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,8,5,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,9,47,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,10,12,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,11,17,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Surendranagar,12,15,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,1,11,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,2,12,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,3,12,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,4,22,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,5,11,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,6,6,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,7,13,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,8,10,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,9,13,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,10,12,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,11,12,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Vadodara,12,13,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,1,12,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,2,11,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,3,12,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,4,13,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,5,18,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,6,9,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,7,18,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,8,10,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,9,18,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,10,8,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,11,15,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Gujarat,Valsad,12,8,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,ANANTNAG,6,15,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,ANANTNAG,7,16,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,ANANTNAG,8,8,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,ANANTNAG,9,14,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,ANANTNAG,10,7,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,ANANTNAG,11,4,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,BARAMULA,5,12,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,BARAMULA,6,13,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,BARAMULA,7,10,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,BARAMULA,8,37,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,BARAMULA,9,21,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,BARAMULA,10,18,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,BARAMULA,11,14,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,JAMMU,1,11,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,JAMMU,2,8,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,JAMMU,3,12,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,JAMMU,5,14,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,JAMMU,6,17,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,JAMMU,7,13,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,JAMMU,8,13,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,JAMMU,9,15,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,JAMMU,10,16,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,JAMMU,11,9,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,JAMMU,12,11,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,1,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,2,12,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,3,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,4,13,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,5,9,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,6,9,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,7,11,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,8,13,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,9,14,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,10,10,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,11,11,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,KATHUA,12,9,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,PULWAMA,6,13,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,PULWAMA,7,14,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,PULWAMA,8,9,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,PULWAMA,9,10,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,PULWAMA,10,20,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,PULWAMA,11,12,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,PUNCH,8,10,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,RAJAURI,2,12,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,RAJAURI,8,10,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,SRINAGAR,2,11,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,SRINAGAR,5,55,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,SRINAGAR,6,17,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,SRINAGAR,7,26,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,SRINAGAR,8,18,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,SRINAGAR,9,31,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,SRINAGAR,10,21,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,SRINAGAR,11,16,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,UDHAMPUR,1,13,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,UDHAMPUR,2,17,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,UDHAMPUR,3,11,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,UDHAMPUR,6,11,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,UDHAMPUR,7,12,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,UDHAMPUR,8,8,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,UDHAMPUR,9,12,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,UDHAMPUR,10,10,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,UDHAMPUR,11,19,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Jammu & Kashmir,UDHAMPUR,12,13,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,1,12,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,2,7,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,3,11,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,4,14,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,5,9,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,6,14,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,7,17,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,8,19,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,9,14,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,10,11,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,11,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Alappuzha,12,12,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,1,19,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,2,16,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,3,17,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,4,23,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,5,20,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,6,21,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,7,21,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,8,25,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,9,22,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,10,19,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,11,14,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,ERNAKULAM,12,18,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,1,9,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,2,13,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,3,11,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,4,10,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,5,12,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,6,14,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,7,17,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,8,6,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,9,9,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,10,13,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,11,7,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,IDUKKI,12,13,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,1,12,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,2,16,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,3,12,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,4,14,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,5,11,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,6,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,7,12,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,8,12,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,9,18,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,10,11,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,11,19,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KANNUR,12,13,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,1,12,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,2,8,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,3,10,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,4,19,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,5,13,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,6,21,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,7,10,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,8,17,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,9,7,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,10,8,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,11,10,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KASARAGOD,12,16,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,1,12,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,2,17,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,3,17,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,4,8,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,5,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,6,18,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,7,8,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,8,12,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,9,15,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,10,6,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,11,17,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOTTAYAM,12,11,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,1,18,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,2,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,3,14,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,4,19,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,5,16,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,6,18,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,7,28,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,8,17,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,9,7,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,10,16,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,11,23,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,KOZHIKODE,12,17,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,1,12,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,2,9,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,3,6,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,4,14,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,5,19,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,6,15,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,7,10,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,8,7,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,9,18,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,10,8,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,11,17,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,Kollam,12,15,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,1,13,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,2,20,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,3,14,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,4,14,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,5,8,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,6,32,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,7,6,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,8,8,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,9,12,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,10,23,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,11,14,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,MALAPPURAM,12,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,1,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,2,11,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,3,10,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,4,10,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,5,11,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,6,13,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,7,10,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,8,12,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,9,8,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,10,10,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,11,6,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PALAKKAD,12,13,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,1,9,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,2,15,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,3,6,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,4,9,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,5,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,6,12,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,7,13,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,8,14,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,9,13,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,10,9,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,11,6,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,PATHANAMTHITTA,12,10,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,1,27,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,2,18,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,3,25,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,4,22,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,5,30,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,6,24,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,7,19,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,8,25,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,9,21,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,10,24,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,11,24,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THIRUVANANTHAPURAM,12,20,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,1,9,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,2,12,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,3,11,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,4,6,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,5,9,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,6,19,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,7,14,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,8,14,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,9,10,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,10,10,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,11,8,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,THRISSUR,12,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,1,14,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,2,9,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,3,6,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,4,16,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,5,15,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,6,12,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,7,10,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,8,10,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,9,19,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,10,16,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,11,11,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Kerala,WAYANAD,12,7,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,1,11,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,2,8,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,3,8,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,4,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,5,7,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,6,9,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,7,12,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,8,15,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,9,12,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,10,8,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,11,16,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BALAGHAT,12,11,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,1,10,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,2,6,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,3,12,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,4,14,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,5,8,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,6,14,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,7,10,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,8,13,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,9,10,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,10,10,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,11,16,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BARWANI,12,6,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,1,15,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,2,11,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,3,14,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,4,21,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,5,14,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,6,9,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,7,8,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,8,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,9,16,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,10,15,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,11,11,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BETUL,12,9,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,1,16,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,2,17,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,3,12,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,4,9,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,5,10,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,6,8,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,7,11,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,8,14,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,9,9,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,10,16,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,11,6,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHIND,12,14,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,1,16,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,2,9,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,3,15,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,4,9,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,5,10,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,6,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,7,11,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,8,18,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,9,12,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,10,14,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,11,14,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,BHOPAL,12,7,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,1,7,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,2,3,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,3,9,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,4,12,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,5,14,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,6,9,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,7,13,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,8,12,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,9,9,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,10,15,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,11,8,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHATARPUR,12,10,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,1,10,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,2,19,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,3,11,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,4,14,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,5,15,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,6,9,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,7,14,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,8,16,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,9,9,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,10,9,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,11,11,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,CHHINDWARA,12,16,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,1,14,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,2,16,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,3,11,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,4,12,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,5,12,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,6,11,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,7,8,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,8,9,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,9,7,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,10,10,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,11,11,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DEWAS,12,11,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,1,11,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,2,9,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,3,14,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,4,19,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,5,13,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,6,7,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,7,17,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,8,9,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,9,16,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,10,14,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,11,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DHAR,12,13,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,1,10,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,2,14,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,3,13,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,4,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,5,4,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,6,9,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,7,23,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,8,16,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,9,18,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,10,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,11,14,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,DINDORI,12,9,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,1,17,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,2,12,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,3,10,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,4,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,5,7,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,6,9,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,7,9,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,8,14,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,9,9,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,10,17,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,11,10,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,EAST NIMAR,12,10,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,1,15,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,2,11,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,3,13,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,4,13,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,5,22,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,6,12,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,7,16,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,8,16,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,9,9,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,10,10,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,11,10,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GUNA,12,10,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,1,15,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,2,10,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,3,15,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,4,11,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,5,17,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,6,14,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,7,21,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,8,6,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,9,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,10,13,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,11,17,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,GWALIOR,12,18,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,1,15,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,2,10,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,3,16,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,4,12,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,5,9,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,6,17,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,7,15,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,8,12,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,9,7,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,10,10,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,11,12,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,HOSHANGABAD,12,15,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,1,9,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,2,23,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,3,11,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,4,18,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,5,17,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,6,17,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,7,29,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,8,16,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,9,10,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,10,13,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,11,21,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,INDORE,12,17,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,1,19,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,2,13,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,3,15,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,4,16,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,5,5,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,6,19,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,7,13,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,8,13,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,9,6,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,10,13,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,11,11,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JABALPUR,12,12,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,1,13,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,2,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,3,6,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,4,9,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,5,7,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,6,10,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,7,9,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,8,15,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,9,23,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,10,8,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,11,16,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,JHABUA,12,14,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,1,6,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,2,10,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,3,9,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,4,13,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,5,8,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,6,14,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,7,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,8,7,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,9,11,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,10,14,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,11,11,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,KATNI,12,12,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,1,19,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,2,14,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,3,14,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,4,17,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,5,12,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,6,15,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,7,15,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,8,12,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,9,10,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,10,13,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,11,5,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDLA,12,13,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDSAUR,1,12,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDSAUR,2,12,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDSAUR,3,14,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDSAUR,4,6,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDSAUR,6,16,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDSAUR,7,11,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDSAUR,8,12,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDSAUR,9,13,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDSAUR,10,8,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDSAUR,11,10,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,MANDSAUR,12,14,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,1,9,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,2,11,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,3,14,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,4,10,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,5,12,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,6,15,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,7,13,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,8,15,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,9,6,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,10,13,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,11,10,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NARSIMHAPUR,12,18,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NEEMUCH,1,14,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NEEMUCH,2,16,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NEEMUCH,3,11,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NEEMUCH,4,17,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NEEMUCH,6,9,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NEEMUCH,7,8,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NEEMUCH,8,9,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NEEMUCH,9,10,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NEEMUCH,10,12,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NEEMUCH,11,4,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,NEEMUCH,12,8,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,1,11,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,2,11,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,3,12,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,4,14,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,5,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,6,4,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,7,20,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,8,15,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,9,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,10,14,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,11,16,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAISEN,12,13,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,1,7,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,2,5,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,3,6,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,4,14,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,5,14,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,6,14,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,7,13,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,8,12,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,9,15,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,10,6,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,11,7,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RAJGARH,12,14,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RATLAM,1,16,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RATLAM,2,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RATLAM,3,13,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RATLAM,4,7,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RATLAM,6,9,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RATLAM,7,12,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RATLAM,8,9,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RATLAM,9,8,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RATLAM,10,18,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RATLAM,11,12,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,RATLAM,12,18,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,REWA,1,10,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,REWA,3,8,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,REWA,4,10,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,REWA,5,13,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,REWA,6,4,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,REWA,7,11,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,REWA,8,17,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,REWA,9,8,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,REWA,10,15,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,REWA,11,7,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,REWA,12,15,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,1,14,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,2,10,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,3,14,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,4,14,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,5,12,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,6,8,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,7,12,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,8,17,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,9,11,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,10,11,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,11,11,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SAGAR,12,9,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,1,9,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,2,7,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,3,8,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,4,7,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,5,13,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,6,15,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,7,16,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,8,8,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,9,14,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,10,9,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,11,13,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SATNA,12,11,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,1,11,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,2,8,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,3,14,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,4,12,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,5,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,6,13,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,7,15,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,8,9,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,9,14,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,10,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,11,9,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEHORE,12,10,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,1,16,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,2,13,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,3,11,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,4,8,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,5,13,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,6,17,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,7,11,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,8,14,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,9,14,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,10,15,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,11,7,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SEONI,12,17,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,1,11,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,2,14,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,3,12,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,4,9,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,5,9,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,6,11,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,7,20,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,8,9,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,9,8,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,10,16,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,11,18,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAHDOL,12,16,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAJAPUR,1,13,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAJAPUR,2,10,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAJAPUR,3,12,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAJAPUR,5,16,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAJAPUR,6,15,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAJAPUR,7,12,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAJAPUR,8,9,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAJAPUR,9,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAJAPUR,10,8,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAJAPUR,11,14,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHAJAPUR,12,13,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,1,20,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,2,11,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,3,19,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,4,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,5,11,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,6,9,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,7,17,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,8,4,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,9,15,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,10,13,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,11,12,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SHIVPURI,12,10,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,1,12,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,2,21,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,3,12,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,4,10,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,5,18,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,6,6,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,7,10,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,8,13,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,9,8,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,10,9,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,11,12,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,SIDHI,12,16,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,1,12,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,2,18,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,3,7,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,4,6,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,5,10,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,6,14,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,7,14,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,8,14,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,9,12,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,10,6,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,11,8,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,TIKAMGARH,12,9,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UJJAIN,1,14,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UJJAIN,2,9,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UJJAIN,3,11,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UJJAIN,4,12,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UJJAIN,6,6,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UJJAIN,7,13,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UJJAIN,8,11,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UJJAIN,9,18,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UJJAIN,10,11,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UJJAIN,11,9,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UJJAIN,12,8,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,1,23,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,2,6,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,3,10,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,4,14,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,5,16,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,6,9,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,7,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,8,12,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,9,12,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,10,13,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,11,14,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,UMARIA,12,8,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,VIDISHA,1,17,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,VIDISHA,2,19,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,VIDISHA,3,7,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,VIDISHA,6,10,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,VIDISHA,7,12,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,VIDISHA,8,9,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,VIDISHA,9,16,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,VIDISHA,10,13,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,VIDISHA,11,11,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,VIDISHA,12,6,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,1,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,2,9,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,3,7,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,4,14,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,5,20,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,6,11,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,7,15,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,8,13,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,9,12,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,10,8,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,11,11,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Madhya Pradesh,WEST NIMAR,12,14,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Akola,7,13,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Akola,8,7,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Akola,9,15,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Akola,10,5,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,1,11,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,2,9,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,3,10,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,4,13,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,5,9,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,6,9,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,7,12,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,8,13,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,9,9,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,10,8,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,11,16,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Amravati,12,14,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,1,18,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,2,6,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,3,12,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,4,12,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,5,11,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,6,14,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,7,10,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,8,11,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,9,11,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,10,4,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,11,11,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Aurangabad,12,14,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Beed,1,13,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Beed,2,10,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Beed,3,5,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Beed,5,12,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Beed,8,16,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Beed,9,14,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Beed,10,11,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Beed,11,10,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Beed,12,12,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,1,14,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,2,15,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,3,12,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,4,11,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,5,12,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,6,14,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,7,17,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,8,12,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,9,8,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,10,14,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,11,18,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Bhandara,12,9,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Buldana,7,11,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Buldana,8,13,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Buldana,9,12,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Buldana,10,13,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,1,9,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,2,24,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,3,11,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,4,20,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,5,6,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,6,9,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,7,14,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,8,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,9,20,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,10,11,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,11,12,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Chandrapur,12,14,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Dhule,9,11,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Dhule,10,11,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Dhule,11,7,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Dhule,12,15,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,1,14,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,2,11,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,3,14,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,4,16,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,5,9,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,6,19,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,7,9,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,8,10,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,9,15,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,10,12,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,11,7,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalgaon,12,8,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalna,1,17,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalna,2,10,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalna,3,16,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalna,5,9,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalna,8,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalna,9,7,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalna,10,14,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalna,11,11,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Jalna,12,12,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,1,9,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,2,10,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,3,13,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,4,10,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,5,15,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,6,18,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,7,8,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,8,13,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,9,13,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,10,17,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,11,17,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Kolhapur,12,11,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Latur,1,9,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Latur,2,9,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Latur,9,15,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Latur,10,18,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Latur,11,9,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Latur,12,9,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,1,33,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,2,43,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,3,41,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,4,39,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,5,36,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,6,38,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,7,53,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,8,39,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,9,28,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,10,16,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,11,14,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,MUMBAI CITY,12,11,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,1,44,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,2,44,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,3,52,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,4,50,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,5,40,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,6,33,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,7,36,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,8,35,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,9,37,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,10,14,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,11,19,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Mumbai Suburban,12,10,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,1,13,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,2,13,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,3,13,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,4,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,5,12,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,6,16,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,7,15,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,8,2,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,9,12,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,10,12,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,11,10,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nagpur,12,8,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,1,14,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,2,15,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,3,9,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,4,16,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,5,10,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,6,7,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,7,10,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,8,11,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,9,7,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,10,17,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,11,9,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nanded,12,6,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nandurbar,1,14,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nandurbar,2,10,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nandurbar,3,16,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nandurbar,4,10,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nandurbar,7,15,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nandurbar,8,19,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nandurbar,9,13,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nandurbar,10,9,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nandurbar,11,10,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nandurbar,12,18,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,1,13,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,2,15,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,3,17,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,4,17,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,5,14,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,6,18,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,7,13,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,8,10,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,9,11,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,10,12,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,11,13,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Nashik,12,12,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,1,42,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,2,34,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,3,34,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,4,41,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,5,34,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,6,27,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,7,36,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,8,18,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,9,20,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,10,12,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,11,15,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Palghar,12,15,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,1,11,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,2,14,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,3,13,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,4,11,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,5,14,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,6,9,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,7,14,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,8,18,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,9,14,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,10,10,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,11,17,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Parbhani,12,13,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,1,10,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,2,13,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,3,15,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,4,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,5,10,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,6,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,7,7,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,8,7,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,9,9,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,10,6,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,11,13,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Pune,12,16,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,1,15,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,2,18,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,3,7,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,4,9,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,5,19,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,6,8,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,7,15,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,8,8,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,9,13,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,10,19,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,11,10,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Ratnagiri,12,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,1,10,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,2,9,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,3,12,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,4,6,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,5,11,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,6,10,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,7,12,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,8,9,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,9,15,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,10,6,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,11,13,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sangli,12,14,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,1,14,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,2,8,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,3,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,4,15,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,5,10,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,6,13,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,7,16,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,8,17,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,9,8,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,10,13,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,11,8,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Satara,12,11,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,1,10,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,2,16,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,3,11,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,4,13,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,5,12,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,6,8,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,7,13,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,8,13,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,9,10,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,10,10,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,11,9,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Sindudurg,12,13,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,1,21,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,2,12,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,3,10,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,4,11,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,5,11,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,6,13,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,7,11,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,8,14,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,9,19,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,10,11,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,11,16,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Solapur,12,17,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,1,32,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,2,27,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,3,17,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,4,31,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,5,25,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,6,17,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,7,30,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,8,13,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,9,10,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,10,14,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,11,10,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Thane,12,11,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Wardha,1,7,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Wardha,2,16,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Wardha,3,6,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Wardha,4,11,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Wardha,7,12,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Wardha,8,9,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Wardha,9,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Wardha,10,9,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Wardha,11,13,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Wardha,12,18,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,1,13,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,2,12,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,3,11,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,4,8,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,5,13,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,6,12,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,7,16,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,8,14,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,9,20,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,10,5,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,11,8,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Maharashtra,Yavatmal,12,6,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,AMRITSAR,1,13,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,AMRITSAR,2,12,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,AMRITSAR,3,15,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,AMRITSAR,4,45,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,AMRITSAR,5,10,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,AMRITSAR,6,12,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,AMRITSAR,7,17,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,AMRITSAR,8,10,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,AMRITSAR,10,8,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,AMRITSAR,11,8,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,1,11,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,2,12,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,3,11,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,4,25,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,5,9,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,6,16,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,7,10,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,8,9,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,9,14,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,10,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,11,11,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,FEROZEPUR,12,8,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,1,7,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,2,14,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,3,6,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,4,8,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,5,12,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,6,12,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,7,13,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,8,8,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,9,14,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,10,10,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,11,9,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,GURDASPUR,12,6,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,1,31,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,2,38,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,3,38,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,4,35,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,5,41,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,6,59,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,7,20,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,8,25,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,9,42,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,10,37,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,11,29,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,JALANDHAR,12,37,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,1,15,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,2,26,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,3,7,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,4,16,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,5,22,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,6,20,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,7,10,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,8,29,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,9,18,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,10,9,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,11,17,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,KAPURTHALA,12,15,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,1,8,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,2,6,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,3,9,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,4,19,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,5,7,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,6,18,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,7,8,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,8,8,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,9,9,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,10,20,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,11,13,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,LUDHIANA,12,12,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,1,10,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,2,9,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,3,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,4,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,5,14,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,6,19,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,7,15,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,8,9,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,9,16,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,10,9,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,11,9,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MANSA,12,13,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,1,22,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,2,14,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,3,13,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,4,21,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,5,14,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,6,19,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,7,17,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,8,11,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,9,17,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,10,12,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,11,11,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,MOHALI,12,15,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,1,10,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,2,12,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,3,19,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,4,9,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,5,11,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,6,11,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,7,14,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,8,9,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,9,7,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,10,9,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,11,13,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,NAWAN SHAHR,12,11,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,1,32,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,2,43,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,3,38,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,4,33,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,5,51,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,6,39,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,7,36,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,8,36,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,9,34,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,10,47,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,11,36,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+Punjab,PATIALA,12,39,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BANKURA,1,12,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BANKURA,2,12,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BANKURA,3,11,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BANKURA,4,14,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BANKURA,6,8,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BANKURA,7,7,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BANKURA,8,14,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BANKURA,9,12,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BANKURA,10,18,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BANKURA,11,13,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BANKURA,12,16,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BARDDHAMAN,1,5,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BARDDHAMAN,2,13,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BARDDHAMAN,3,13,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BARDDHAMAN,4,16,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BARDDHAMAN,6,10,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BARDDHAMAN,7,9,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BARDDHAMAN,8,7,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BARDDHAMAN,9,9,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BARDDHAMAN,10,8,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BARDDHAMAN,11,9,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BARDDHAMAN,12,12,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BIRBHUM,1,10,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BIRBHUM,2,6,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BIRBHUM,3,16,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BIRBHUM,4,11,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BIRBHUM,6,8,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BIRBHUM,7,15,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BIRBHUM,8,10,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BIRBHUM,9,8,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BIRBHUM,10,14,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BIRBHUM,11,11,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,BIRBHUM,12,11,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,COOCH BEHAR,1,6,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,COOCH BEHAR,2,9,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,COOCH BEHAR,3,17,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,COOCH BEHAR,4,20,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,COOCH BEHAR,6,25,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,COOCH BEHAR,7,22,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,COOCH BEHAR,8,24,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,COOCH BEHAR,9,19,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,COOCH BEHAR,10,5,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,COOCH BEHAR,11,17,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,COOCH BEHAR,12,25,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,DARJILING,1,19,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,DARJILING,2,11,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,DARJILING,3,17,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,DARJILING,4,10,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,DARJILING,6,16,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,DARJILING,7,17,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,DARJILING,8,9,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,DARJILING,9,10,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,DARJILING,10,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,DARJILING,11,9,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,DARJILING,12,11,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,1,17,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,2,16,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,3,11,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,4,9,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,5,8,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,6,16,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,7,8,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,8,12,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,9,16,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,10,10,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,11,16,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HOWRAH,12,12,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,1,10,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,2,17,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,3,9,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,4,12,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,5,16,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,6,16,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,7,12,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,8,24,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,9,6,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,10,24,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,11,6,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,HUGLI,12,13,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JALPAIGURI,1,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JALPAIGURI,2,15,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JALPAIGURI,3,10,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JALPAIGURI,4,16,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JALPAIGURI,6,7,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JALPAIGURI,7,16,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JALPAIGURI,8,10,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JALPAIGURI,9,8,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JALPAIGURI,10,10,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JALPAIGURI,11,7,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JALPAIGURI,12,15,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JHARGRAM,2,11,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JHARGRAM,7,10,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,JHARGRAM,12,13,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,1,12,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,2,7,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,3,12,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,4,8,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,5,22,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,6,36,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,7,9,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,8,14,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,9,15,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,10,18,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,11,10,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,KOLKATA,12,6,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MEDINIPUR,1,11,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MEDINIPUR,2,10,6,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MEDINIPUR,3,13,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MEDINIPUR,7,9,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MEDINIPUR,9,12,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MEDINIPUR,10,10,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MEDINIPUR,11,10,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MEDINIPUR,12,8,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,1,16,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,2,16,4,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,3,20,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,4,6,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,5,8,9,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,6,13,7,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,7,11,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,8,5,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,9,22,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,10,15,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,11,9,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,MURSHIDABAD,12,5,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,1,23,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,2,34,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,3,31,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,4,8,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,5,9,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,6,21,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,7,32,17,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,8,47,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,9,27,22,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,10,29,10,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,11,30,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NADIA,12,27,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,1,20,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,2,23,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,3,30,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,4,22,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,5,35,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,6,31,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,7,33,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,8,46,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,9,29,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,10,39,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,11,29,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,NORTH 24 PARGANAS,12,31,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,PURULIYA,1,17,18,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,PURULIYA,2,19,8,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,PURULIYA,3,13,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,PURULIYA,4,14,21,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,PURULIYA,6,16,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,PURULIYA,7,16,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,PURULIYA,8,13,3,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,PURULIYA,9,17,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,PURULIYA,10,9,19,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,PURULIYA,11,11,13,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,PURULIYA,12,10,14,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,1,10,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,2,10,23,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,3,13,15,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,4,14,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,5,16,12,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,6,16,5,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,7,9,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,8,11,20,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,9,9,11,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,10,13,16,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,11,16,24,synthetic,SIMULATED for dashboard demonstration only - not real health data
+West Bengal,SOUTH 24 PARGANAS,12,15,5,synthetic,SIMULATED for dashboard demonstration only - not real health data

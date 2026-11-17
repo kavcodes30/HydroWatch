@@ -1,0 +1,8 @@
+{
+  "model": "Logistic Regression",
+  "cv_macro_f1_mean": 0.5150191921451734,
+  "cv_macro_f1_std": 0.025080383721888616,
+  "best_params": {
+    "model__C": 10.0
+  }
+}

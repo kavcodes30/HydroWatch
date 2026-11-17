@@ -1,0 +1,9 @@
+{
+  "model": "Decision Tree",
+  "cv_macro_f1_mean": 0.6414388490310439,
+  "cv_macro_f1_std": 0.02444899269225881,
+  "best_params": {
+    "model__max_depth": null,
+    "model__min_samples_leaf": 1
+  }
+}

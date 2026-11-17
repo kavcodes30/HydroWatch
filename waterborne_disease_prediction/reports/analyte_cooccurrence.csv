@@ -1,0 +1,10 @@
+analyte,non_null,with_dissolved_oxygen,overlap_pct
+ph,8438,7684,91.1
+electrical_conductivity,1783,1220,68.4
+turbidity,258,0,0.0
+tds,549,0,0.0
+ammonia_n,1096,1076,98.2
+nitrate_n,292,0,0.0
+chloride,546,0,0.0
+alkalinity,501,0,0.0
+iron,228,0,0.0

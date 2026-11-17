@@ -1,0 +1,4 @@
+configuration,holdout_accuracy,holdout_macro_f1,high_risk_recall,overfitting_gap,brier_high
+"selected model (unlimited depth, uncalibrated)",0.7888,0.6599,0.7273,0.199,0.0386
+"regularised RF (depth 12, uncalibrated) - SHIPPED",0.7627,0.6381,0.8545,0.1323,0.0485
+regularised RF + isotonic calibration - rejected,0.7809,0.5547,0.4727,0.0971,0.0389

@@ -1,0 +1,14 @@
+{
+  "smote": {
+    "model": "Random Forest + SMOTE",
+    "cv_macro_f1_mean": 0.6917626589981398,
+    "cv_macro_f1_std": 0.02604348094136743,
+    "best_params": {
+      "note": "SMOTE applied inside training folds only"
+    }
+  },
+  "baseline": {
+    "majority_baseline_accuracy": 0.7068599717114569,
+    "majority_baseline_macro_f1": 0.27606787559785506
+  }
+}

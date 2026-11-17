@@ -1,0 +1,60 @@
+{
+  "model": "Random Forest",
+  "holdout_rows": 2031,
+  "train_accuracy_on_dev": 0.9878005657708628,
+  "test_accuracy": 0.7887740029542097,
+  "macro_f1": 0.6599079342786646,
+  "weighted_f1": 0.7984158750558706,
+  "per_class": {
+    "Low": {
+      "precision": 0.9230210602759622,
+      "recall": 0.8530201342281879,
+      "f1": 0.8866410882455529,
+      "support": 1490
+    },
+    "Moderate": {
+      "precision": 0.5421166306695464,
+      "recall": 0.5823665893271461,
+      "f1": 0.5615212527964206,
+      "support": 431
+    },
+    "High": {
+      "precision": 0.418848167539267,
+      "recall": 0.7272727272727273,
+      "f1": 0.53156146179402,
+      "support": 110
+    }
+  },
+  "high_risk_precision": 0.418848167539267,
+  "high_risk_recall": 0.7272727272727273,
+  "brier_scores": {
+    "Low": 0.12575425898572132,
+    "Moderate": 0.13217018709995076,
+    "High": 0.03863025603151157
+  },
+  "confusion_matrix": [
+    [
+      1271,
+      190,
+      29
+    ],
+    [
+      98,
+      251,
+      82
+    ],
+    [
+      8,
+      22,
+      80
+    ]
+  ],
+  "leakage_audit": {
+    "target_components_in_feature_list": [],
+    "row_overlap_train_test": 0,
+    "stations_in_both_splits": 727,
+    "note": "Time-based split shares stations across splits by design; GroupKFold by station was used for model selection so that within-development scores do not benefit from station overlap.",
+    "duplicate_feature_rows_train_test": 0
+  },
+  "overfitting_gap": 0.1990265628166531
+}

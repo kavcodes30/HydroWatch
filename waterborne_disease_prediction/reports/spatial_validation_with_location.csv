@@ -1,0 +1,8 @@
+state,train_rows,test_rows,test_high_share,accuracy,macro_f1,high_recall
+Gujarat,6809,878,0.1241,0.6139,0.4485,0.3394
+Jammu & Kashmir,7144,543,0.105,0.7182,0.2787,0.0
+Kerala,6571,1116,0.0797,0.8002,0.2963,0.0
+Madhya Pradesh,5651,2036,0.0083,0.9091,0.3642,0.0588
+Maharashtra,5839,1848,0.0952,0.4908,0.2707,0.0
+Punjab,7124,563,0.2433,0.5666,0.2411,0.0
+West Bengal,6984,703,0.0811,0.7539,0.3029,0.0

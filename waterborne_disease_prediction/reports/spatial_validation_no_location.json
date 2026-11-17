@@ -1,0 +1,77 @@
+{
+  "scheme": "leave-one-state-out (train on 6 states, test on the 7th)",
+  "features": "location ablated",
+  "n_features": 19,
+  "mean_accuracy": 0.6237,
+  "mean_macro_f1": 0.3102,
+  "mean_high_recall": 0.0289,
+  "pooled_accuracy": 0.6143,
+  "pooled_macro_f1": 0.3103,
+  "worst_state_macro_f1": "Punjab",
+  "best_state_macro_f1": "Kerala",
+  "per_state": [
+    {
+      "state": "Gujarat",
+      "train_rows": 6809,
+      "test_rows": 878,
+      "test_high_share": 0.1241,
+      "accuracy": 0.6082,
+      "macro_f1": 0.3578,
+      "high_recall": 0.0183
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "train_rows": 7144,
+      "test_rows": 543,
+      "test_high_share": 0.105,
+      "accuracy": 0.6667,
+      "macro_f1": 0.2667,
+      "high_recall": 0.0
+    },
+    {
+      "state": "Kerala",
+      "train_rows": 6571,
+      "test_rows": 1116,
+      "test_high_share": 0.0797,
+      "accuracy": 0.7222,
+      "macro_f1": 0.3747,
+      "high_recall": 0.0562
+    },
+    {
+      "state": "Madhya Pradesh",
+      "train_rows": 5651,
+      "test_rows": 2036,
+      "test_high_share": 0.0083,
+      "accuracy": 0.6557,
+      "macro_f1": 0.2947,
+      "high_recall": 0.0588
+    },
+    {
+      "state": "Maharashtra",
+      "train_rows": 5839,
+      "test_rows": 1848,
+      "test_high_share": 0.0952,
+      "accuracy": 0.4832,
+      "macro_f1": 0.2722,
+      "high_recall": 0.0341
+    },
+    {
+      "state": "Punjab",
+      "train_rows": 7124,
+      "test_rows": 563,
+      "test_high_share": 0.2433,
+      "accuracy": 0.5204,
+      "macro_f1": 0.2554,
+      "high_recall": 0.0
+    },
+    {
+      "state": "West Bengal",
+      "train_rows": 6984,
+      "test_rows": 703,
+      "test_high_share": 0.0811,
+      "accuracy": 0.7098,
+      "macro_f1": 0.35,
+      "high_recall": 0.0351
+    }
+  ]
+}

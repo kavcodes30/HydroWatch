@@ -1,0 +1,10 @@
+{
+  "model": "Random Forest",
+  "cv_macro_f1_mean": 0.7065570014441906,
+  "cv_macro_f1_std": 0.023640929012338656,
+  "best_params": {
+    "model__min_samples_leaf": 1,
+    "model__max_features": 0.5,
+    "model__max_depth": null
+  }
+}

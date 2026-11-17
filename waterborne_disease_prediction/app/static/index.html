@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Water-Borne Disease Risk — Community Early Warning</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --card:#ffffff; --ink:#1b2430; --muted:#5c6b7a;
+    --line:#e2e6ea; --low:#2E7D32; --mod:#EF6C00; --high:#C62828;
+    --accent:#1565C0; --warnbg:#fff8e1; --warnline:#f0c000;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+       font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       font-size:15px;line-height:1.55}
+  header{background:#12304f;color:#fff;padding:20px 28px}
+  header h1{margin:0;font-size:20px;font-weight:650;letter-spacing:.2px}
+  header p{margin:6px 0 0;color:#b9cde0;font-size:13px}
+  .wrap{max-width:1180px;margin:0 auto;padding:22px 20px 60px}
+  .banner{background:var(--warnbg);border:1px solid var(--warnline);border-radius:8px;
+          padding:12px 16px;font-size:13.5px;margin-bottom:20px}
+  .banner strong{color:#7a5c00}
+  .grid{display:grid;gap:18px}
+  .cards{grid-template-columns:repeat(auto-fit,minmax(190px,1fr))}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px}
+  .card .label{font-size:12px;text-transform:uppercase;letter-spacing:.6px;color:var(--muted)}
+  .card .value{font-size:26px;font-weight:680;margin-top:4px}
+  .card .sub{font-size:12px;color:var(--muted);margin-top:2px}
+  section{background:var(--card);border:1px solid var(--line);border-radius:10px;
+          padding:20px 22px;margin-top:18px}
+  section h2{margin:0 0 4px;font-size:16px;font-weight:650}
+  section .hint{margin:0 0 16px;font-size:13px;color:var(--muted)}
+  .cols{display:grid;grid-template-columns:1.05fr .95fr;gap:22px}
+  @media(max-width:860px){.cols{grid-template-columns:1fr}}
+  label{display:block;font-size:12.5px;color:var(--muted);margin:10px 0 4px}
+  input,select{width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:6px;
+               font-size:14px;background:#fff;color:var(--ink)}
+  input:focus,select:focus{outline:2px solid #cfe0f3;border-color:var(--accent)}
+  .row2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  button{margin-top:16px;width:100%;padding:11px;border:0;border-radius:7px;
+         background:var(--accent);color:#fff;font-size:14.5px;font-weight:600;cursor:pointer}
+  button:hover{background:#0d47a1}
+  button:disabled{background:#9fb4c9;cursor:not-allowed}
+  .result{border:1px dashed var(--line);border-radius:8px;padding:16px;min-height:210px;
+          background:#fbfcfd}
+  .pill{display:inline-block;padding:4px 12px;border-radius:999px;color:#fff;
+        font-size:13px;font-weight:650}
+  .bar{height:9px;border-radius:5px;background:#eef1f4;overflow:hidden;margin:5px 0 10px}
+  .bar > i{display:block;height:100%}
+  .probs{margin-top:12px}
+  .probs .name{display:flex;justify-content:space-between;font-size:12.5px;color:var(--muted)}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{font-size:11.5px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);
+     background:#fafbfc}
+  tr:hover td{background:#fafbfc}
+  .sev-alert{color:var(--high);font-weight:650}
+  .sev-watch{color:var(--mod);font-weight:650}
+  .tag{font-size:11px;background:#eef1f4;color:var(--muted);padding:2px 8px;border-radius:4px}
+  .tag.synth{background:#fdecea;color:#a12b22}
+  .factors li{font-size:13px;margin:3px 0}
+  .caveat{border-left:4px solid var(--high);background:#fdf3f2;padding:12px 16px;
+          border-radius:0 8px 8px 0;font-size:13px;margin-top:14px}
+  .footer{margin-top:26px;font-size:12px;color:var(--muted);text-align:center}
+  .err{color:var(--high);font-size:13px;margin-top:10px}
+  svg{width:100%;height:170px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Community Water-Borne Disease Risk — Early Warning</h1>
+  <p>Smart Community Health Monitoring &amp; Early Warning System · decision support, not diagnosis</p>
+</header>
+
+<div class="wrap">
+  <div class="banner">
+    <strong>This system does not diagnose disease or confirm contamination.</strong>
+    It flags water-quality conditions consistent with elevated risk, so that a human can
+    investigate. Every alert requires verification by repeat sampling and public-health review.
+  </div>
+
+  <div class="grid cards" id="cards"></div>
+
+  <section>
+    <h2>Risk assessment</h2>
+    <p class="hint">Enter a monitoring record to get a risk category, class probabilities and the
+      factors driving the prediction.</p>
+    <div class="cols">
+      <div>
+        <label for="state">State (must be in training coverage)</label>
+        <select id="state">
+          <option>Maharashtra</option><option>Gujarat</option><option>Kerala</option>
+          <option>Madhya Pradesh</option><option>Punjab</option>
+          <option>West Bengal</option><option>Jammu &amp; Kashmir</option>
+        </select>
+        <div class="row2">
+          <div><label for="month">Month</label><input id="month" type="number" min="1" max="12" value="7" /></div>
+          <div><label for="ph">pH</label><input id="ph" type="number" step="0.01" value="7.2" /></div>
+        </div>
+        <div class="row2">
+          <div><label for="ec">Conductivity (µS/cm)</label><input id="ec" type="number" step="1" value="640" /></div>
+          <div><label for="rain">Monthly rainfall (mm)</label><input id="rain" type="number" step="1" value="210" /></div>
+        </div>
+        <div class="row2">
+          <div><label for="t2m">Air temperature (°C)</label><input id="t2m" type="number" step="0.1" value="27.5" /></div>
+          <div><label for="lat">Latitude</label><input id="lat" type="number" step="0.001" value="18.52" /></div>
+        </div>
+        <label for="lon">Longitude</label>
+        <input id="lon" type="number" step="0.001" value="73.85" />
+        <button id="go">Assess risk</button>
+        <div class="err" id="err"></div>
+      </div>
+      <div class="result" id="result">
+        <span class="tag">awaiting input</span>
+        <p class="hint" style="margin-top:10px">Submit a record to see the prediction,
+          probabilities and contributing factors.</p>
+      </div>
+    </div>
+    <div class="caveat" id="spatialCaveat"></div>
+  </section>
+
+  <section>
+    <h2>Active alerts <span class="tag">holdout period Oct–Dec 2021</span></h2>
+    <p class="hint">Model-flagged high-risk station-months and measurement exceedances against
+      BIS IS 10500 / CPCB limits.</p>
+    <div class="row2" style="max-width:520px;margin-bottom:14px">
+      <div><label for="sev">Severity</label>
+        <select id="sev"><option value="">All</option><option value="alert">Alert</option>
+          <option value="watch">Watch</option></select></div>
+      <div><label for="stateFilter">State</label>
+        <select id="stateFilter"><option value="">All states</option>
+          <option>Maharashtra</option><option>Gujarat</option><option>Kerala</option>
+          <option>Madhya Pradesh</option><option>Punjab</option>
+          <option>West Bengal</option><option>Jammu &amp; Kashmir</option></select></div>
+    </div>
+    <table>
+      <thead><tr><th>Station</th><th>District</th><th>Period</th><th>Risk</th>
+        <th>P(High)</th><th>Severity</th><th>Parameter breaches</th></tr></thead>
+      <tbody id="alertRows"><tr><td colspan="7">loading…</td></tr></tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Community symptom reports <span class="tag synth">SYNTHETIC — demonstration only</span></h2>
+    <p class="hint">No real health data was supplied. This stream is simulated to show how the
+      dashboard would display aggregated symptom trends, and is never used for training or
+      evaluation.</p>
+    <svg id="symptomChart" viewBox="0 0 720 170" preserveAspectRatio="none"></svg>
+  </section>
+
+  <div class="footer">
+    Water-borne disease risk early warning · model served from the trained scikit-learn pipeline
+  </div>
+</div>
+
+<script>
+const COLOURS = {Low:"#2E7D32", Moderate:"#EF6C00", High:"#C62828"};
+const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+async function jget(url){ const r = await fetch(url); if(!r.ok) throw new Error(await r.text()); return r.json(); }
+
+/* ---- model cards ---- */
+(async () => {
+  try{
+    const info = await jget("/model-info");
+    const h = info.holdout, b = info.baseline, s = info.spatial_holdout || {};
+    document.getElementById("cards").innerHTML = `
+      <div class="card"><div class="label">Holdout accuracy</div>
+        <div class="value">${(h.accuracy*100).toFixed(1)}%</div>
+        <div class="sub">baseline ${(b.accuracy*100).toFixed(1)}% (predict-all-Low)</div></div>
+      <div class="card"><div class="label">Macro F1</div>
+        <div class="value">${h.macro_f1.toFixed(3)}</div>
+        <div class="sub">baseline ${b.macro_f1.toFixed(3)}</div></div>
+      <div class="card"><div class="label">High-Risk recall</div>
+        <div class="value" style="color:var(--high)">${(h.high_risk_recall*100).toFixed(1)}%</div>
+        <div class="sub">share of true high-risk cases caught</div></div>
+      <div class="card"><div class="label">Unseen-state macro F1</div>
+        <div class="value" style="color:var(--mod)">${s.mean_macro_f1!==undefined?s.mean_macro_f1.toFixed(3):"—"}</div>
+        <div class="sub">leave-one-state-out test</div></div>`;
+    document.getElementById("spatialCaveat").textContent = info.spatial_caveat;
+  }catch(e){ document.getElementById("cards").innerHTML =
+    `<div class="card"><div class="label">model info</div><div class="sub">${e.message}</div></div>`; }
+})();
+
+/* ---- prediction ---- */
+document.getElementById("go").addEventListener("click", async () => {
+  const btn = document.getElementById("go"), err = document.getElementById("err");
+  btn.disabled = true; btn.textContent = "Assessing…"; err.textContent = "";
+  const body = {
+    state: document.getElementById("state").value,
+    month: parseInt(document.getElementById("month").value, 10),
+    ph: parseFloat(document.getElementById("ph").value),
+    electrical_conductivity: parseFloat(document.getElementById("ec").value),
+    rainfall_monthly_mm: parseFloat(document.getElementById("rain").value),
+    t2m_c: parseFloat(document.getElementById("t2m").value),
+    latitude: parseFloat(document.getElementById("lat").value),
+    longitude: parseFloat(document.getElementById("lon").value)
+  };
+  try{
+    const r = await fetch("/predict", {method:"POST",
+      headers:{"Content-Type":"application/json"}, body: JSON.stringify(body)});
+    if(!r.ok) throw new Error(await r.text());
+    const d = await r.json();
+    const p = d.probabilities;
+    document.getElementById("result").innerHTML = `
+      <span class="pill" style="background:${COLOURS[d.risk_label]}">${d.risk_label} risk</span>
+      <span class="tag" style="margin-left:8px">${d.alert_status}</span>
+      <div class="probs">
+        ${["Low","Moderate","High"].map(c => `
+          <div class="name"><span>${c}</span><span>${(p[c]*100).toFixed(1)}%</span></div>
+          <div class="bar"><i style="width:${(p[c]*100).toFixed(1)}%;background:${COLOURS[c]}"></i></div>
+        `).join("")}
+      </div>
+      <div style="margin-top:10px;font-size:12.5px;color:var(--muted)">
+        Top contributing factors (SHAP, toward High risk):
+        <ul class="factors">
+          ${d.top_contributing_features.map(f =>
+            `<li><code>${f.feature}</code> ${f.shap_contribution>0?"+":""}${f.shap_contribution}</li>`).join("")}
+        </ul>
+        <div class="tag">${d.context_quality}</div>
+      </div>
+      <p style="font-size:11.5px;color:var(--muted);margin-bottom:0">${d.disclaimer}</p>`;
+  }catch(e){
+    err.textContent = "Prediction failed: " + e.message;
+  }finally{
+    btn.disabled = false; btn.textContent = "Assess risk";
+  }
+});
+
+/* ---- alerts ---- */
+async function loadAlerts(){
+  const sev = document.getElementById("sev").value;
+  const st  = document.getElementById("stateFilter").value;
+  const qs  = new URLSearchParams();
+  if(sev) qs.set("severity", sev);
+  if(st)  qs.set("state", st);
+  qs.set("limit", "60");
+  const rows = document.getElementById("alertRows");
+  try{
+    const d = await jget("/alerts?" + qs.toString());
+    if(!d.alerts.length){ rows.innerHTML = `<tr><td colspan="7">No alerts for this filter.</td></tr>`; return; }
+    rows.innerHTML = d.alerts.map(a => `
+      <tr>
+        <td>${(a.station||"").slice(0,42)}</td>
+        <td>${a.district||""}</td>
+        <td>${a.period||""}</td>
+        <td><span class="pill" style="background:${COLOURS[a.predicted_risk]||"#777"};font-size:11.5px">${a.predicted_risk}</span></td>
+        <td>${(a.p_high*100).toFixed(0)}%</td>
+        <td class="${a.severity==='alert'?'sev-alert':'sev-watch'}">${a.severity}</td>
+        <td style="font-size:12px">${a.parameter_breaches||"—"}</td>
+      </tr>`).join("");
+  }catch(e){ rows.innerHTML = `<tr><td colspan="7">${e.message}</td></tr>`; }
+}
+document.getElementById("sev").addEventListener("change", loadAlerts);
+document.getElementById("stateFilter").addEventListener("change", loadAlerts);
+loadAlerts();
+
+/* ---- symptom chart ---- */
+(async () => {
+  try{
+    const d = await jget("/symptoms");
+    const data = d.monthly_totals || [];
+    const svg = document.getElementById("symptomChart");
+    if(!data.length){ svg.innerHTML = `<text x="20" y="60" fill="#5c6b7a">no symptom data</text>`; return; }
+    const max = Math.max(...data.map(x => x.symptom_reports), 1);
+    const bw = 720 / 12;
+    svg.innerHTML = data.map((m,i) => {
+      // bars occupy 100px max so the value label above the tallest bar stays
+      // inside the viewBox instead of clipping against it
+      const h = (m.symptom_reports / max) * 100;
+      const barTop = 132 - h;
+      return `<rect x="${i*bw+8}" y="${barTop}" width="${bw-16}" height="${h}"
+                    fill="#C62828" opacity="0.72" rx="3"></rect>
+              <text x="${i*bw+bw/2}" y="${150}" font-size="11" fill="#5c6b7a"
+                    text-anchor="middle">${MONTHS[i]}</text>
+              <text x="${i*bw+bw/2}" y="${barTop-6}" font-size="9.5" fill="#1b2430"
+                    text-anchor="middle">${m.symptom_reports}</text>`;
+    }).join("");
+  }catch(e){ /* leave chart empty on failure */ }
+})();
+</script>
+</body>
+</html>

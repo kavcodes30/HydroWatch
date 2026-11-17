@@ -1,0 +1,9 @@
+{
+  "model": "XGBoost",
+  "cv_macro_f1_mean": 0.6958752464740787,
+  "cv_macro_f1_std": 0.015289631459395454,
+  "best_params": {
+    "model__max_depth": 7,
+    "model__learning_rate": 0.1
+  }
+}
